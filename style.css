@@ -1,0 +1,14 @@
+*,*::after,*::before {
+  box-sizing: border-box ;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+canvas {
+  background: #757BBD;
+}
